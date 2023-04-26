@@ -1,4 +1,7 @@
-telegram_token: ""
+elegram_token: ""
+telegram_api_id: ""
+telegram_api_hash: ""
+pyrogram_session: ""
 openai_api_key: ""
 use_chatgpt_api: true
 allowed_telegram_usernames: []  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as integers
